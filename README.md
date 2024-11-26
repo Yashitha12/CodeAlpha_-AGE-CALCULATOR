@@ -27,4 +27,4 @@ This application allows users to calculate their age by entering their date of b
 
 1. Clone or download the repository:
    ```bash
-   git clone <repository-link>
+   git clone [<repository-link>](https://github.com/Yashitha12/CodeAlpha_-AGE-CALCULATOR.git)
